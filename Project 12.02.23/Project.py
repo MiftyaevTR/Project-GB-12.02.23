@@ -1,3 +1,4 @@
+# Подробное описание работы данной программы в файле README
 
 def sort_array (array):
     new_array=[]
